@@ -1,4 +1,4 @@
 File Metadata Microservice
 =========================
 
-DEMO: https://esk-filemetadata.glitch.me/
+Demo: https://esk-filemetadata.glitch.me/
